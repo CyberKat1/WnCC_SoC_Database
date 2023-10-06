@@ -1,0 +1,70 @@
+,Title,Mentor,Mentees,Project_ID
+0,File Compression System,Amritaansh Narain,4,224
+1,FAST-G,Ameya Vikram Singh / Prerak Contractor / Anish Yogesh Kulkarni,9,225
+2,Developing Trading Strategy with Pine Script,Vivek Kumar / Rajik Kumar,6 to 8,226
+3,Real time Driver Drowsiness detection System,Vedang Bale,8 to 10,227
+4,The Image Cartoonifier,Jaideep Chandra / Sridhar / Bhavani Sankar,10 to 15,228
+5,Speech to Speech Translation,Swapnoneel Kayal,3 to 4,229
+6,Competitive Programming - Newbie to Master,Parth Dwivedi / Kunal Kundwani,4 to 6,230
+7,Path-Planning of Swarm Robotics in 2/3D space,Archit Gupta / Sameer Mannava / Aaryan Dangi,10 to 15,241
+8,Image Super Resolution using Deep Neural Networks,Tanay Tayal / Shantanu Welling / Param Shah,8 to 10,242
+9,Enhance Low Resolution Image using GANs,Hitaansh Shah / Vidit Khazanchi,7 to 8,243
+10,MyBox,Samarth Bansal,4,244
+11,Deep Carlsen,Navyansh Mahla / Atishay Jain,8 to 10,245
+12,InstiExchange - A web marketplace for IITB,Tanmay Hiremath / Adit Akarsh,5,246
+13,Homomorphic Encryption for k-NN on the Cloud,Nilabha Saha / Maithri Suresh,5,247
+14,TRayCer,Arnav Aditya Singh / Sankalan Baidya,6(freshies) + 4(sophies and above),248
+15,Dive into Digital Image Processing,Vipul Patil / Hariprakash Reddy,8 to 10,249
+16,Neural Quest,Isha Arora / Karan Godara / Khushang Singhla,10,250
+17,To the Quantum Future,Anand Narasimhan / Krishna N Agaram / Ameya Deshmukh,9,251
+18,Street Fighter II - Reinforcement Learning,Vijay Balsubramaniam,5 to 10,252
+19,Combinatorial Computing,Soham Joshi / Ameya Vikrama Singh / Adarsh Reddy,4 to 6,253
+20,Social media website with MERN,Shivam kumar / Prakhar Agarwal,10,254
+21,Navigating the Waters of AI,Atharv Kshirsagar / Kushal Gajbe / Omkar Nitsure,7 to 8,255
+22,Autonomous Driving Vehicle,Kartik Gokhale / Sarthak Mittal,6,256
+23,Author Identification through Stylometric Analysis,Mani Praneeth Chilukuri,5,257
+24,Breakout Genius - Using RL to Build an AI Game Master,Omm Agrawal / Ayan Minham Khan / Sabyasachi Samantaray,5,258
+25,Image Captioning,Sabyasachi Samantaray / Nikhil Biradar,7 to 9,259
+26,Cricbuzz,Jaswanth Naidu / Kajal(200050056),6,260
+27,Competitive Programming (CP),"Gowtham S / Siddharth Bhuva(210050149), Rishit Shrivastava (210050136)",10,261
+28,Economics meets Machine Learning,Tejas Sanjaykumar Pagare / Param Rathour (190070049),4 to 6,262
+29,"SynerG Lab, CSE Department - Webpage",Debojeet Das,5,263
+30,Computer vision for driverless vehicles,Yash Rampuria / Aryan Bhosale,5,264
+31,AudioHive A Social Audio App,"Abhijit Amrendra Kumar / Atishay Jain, Harshit Morj",10 to 12,265
+32,Learning the Latent structure in LLMs,Darshan Makwana,10,266
+33,EdConnect,"Gyana Prakash Beria / Shlok Nemani (19D070054), Hiren Bavaskar (190050049)",4,267
+34,NFTs Where Art and Tech Converge,Amit Kumar / Divyam Gupta,8,268
+35,Dive into the World of Quant,Prajwal Raut / Sahil Khan (200020112),10,269
+36,COLLIDE,"Parth Pujari, Anish Kulkarni",8,270
+37,Image Processing and Object Detection,Suyash Waghmare & Prajyot Pandit Chakre (21b080022),5,271
+38,Unreal IITB,Harshit Morj / Kartik Gokhale,5 to 6,272
+39,Human Pose Estimation,Om Godage / Shubham Hazra,7,273
+40,Find me out,Omkar Nitsure / Dhruvi Ganatra,10,274
+41,Sign Language Recogniser,Shruti Bahulekar / Ananya Agrawal(21b030005),5 to 6,275
+42,"E-Commerce Website for VibSpecLab, IIT Bombay",Ojas Jain,4 to 6,276
+43,Image Caption Generator,Satwik Murarka,4,277
+44,Intro Full stack web development:Restaurant website,Durgesh Sahane / Aryan Adinath Popalghat,5 to 8,278
+45,App for Credit rating of Retailers in Clothing Industry,Onkar Borade,10 to 12,279
+46,Ray Tracing,Anand Bhaskar,4,280
+47,YOLO-Cam-Object Detection based Analytics,Aryan Goyal / VIDHAN JAIN,5 to 6,281
+48,Physically Based Rendering,Ishan Chaudhari,3,282
+49,A Secure Erasure Code-Based Cloud Storage System with Secure Data Forwarding,Khushang Singla / Nilabha Saha,4 to 5,283
+50,Graph Machine Learning,Shlesh Gholap,5 to 6,284
+51,“The Watchdogs” - Solving a murder mystery using Computer Vision and Data Science,Agamjot Singh / Aastha Sancheti,6 to 10,285
+52,ArgueAI,Abhinav Raghuvanshi / Pranav Malpure / Rohan Kalbag,4,286
+53,Comic GPT,Lakshay Gupta,4,288
+54,InstiNav,Rishi Tunuguntla / Rishikesh Gunjal,4,289
+55,Face detection for attendance using AI,Akash Prasad / Tushaar Jhamtani,3,290
+56,Hands on Reinforcement,"Ashwin Abraham / Jujhaar (200110052) / Prerak Contractor (210050124) / Sankalp Bhamare (200110096)""",10 to 12,291
+57,Competitive Programming,Virendra Kabra,6,292
+58,RegExamaton,Hrishikesh Jedhe Deshmukh / Ayush Agarwal (210050029),5 to 6,293
+59,Institute OnChain Voting System with ZKPs,Nikhil Tiwari / Ananya Khandelwal / Ishit Garg,5,294
+60,Using Deep RL and NLP to allocate stocks in portfolio,Nikhil Tiwari / Ishan Jain (200100073),5,295
+61,Blockchain Development- It's not that difficult!,Pragyesh Gupta / Dhruvkumar Patil (200100056) / Harsh Choudhary (200070023),5,296
+62,Light field imaging and Dual Attention Networks,Abeer Mishra / Shreyas Patil (200260052),5,297
+63,Stable Diffusion,Shubham Hazra / Om Godage (21d100006) / Kartik Gokhale (200100083),5 to 6,298
+64,FlappeRL,Kartik Gokhale / Hastyn Doshi,5 to 6,299
+65,Hands-on Computational Physics,Kaustav Prasada / Varad Mahashabde (200260057),5 to 8,300
+66,Image Colorization,Valay Bundele,5 to 8,301
+67,PaperPal,Vishruth N / Abhinav Raghuvanshi (200040008),5 to 6,302
+68,JobFinderX,Baggam Rakshan Tej (210070019) / Pamba Ravindra Mohith (210050112),5 to 6,303
